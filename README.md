@@ -1,5 +1,7 @@
 # **Image-to-Image Generator with Stable Diffusion and ControlNet**
 
+![Generated Output](https://github.com/chennaichun/StableDiffusionWithGradio/blob/main/output2.png)
+
 This project demonstrates the integration of **Stable Diffusion** with **ControlNet** for advanced image-to-image generation. Users can upload an image, provide text prompts, and adjust parameters to create customized outputs using **Gradio** as the interface.
 
 ---
@@ -8,6 +10,7 @@ This project demonstrates the integration of **Stable Diffusion** with **Control
 1. Clone this repository and install the dependencies.
 2. Run the Python script to start the Gradio interface.
 3. Upload an input image, provide a descriptive prompt, and adjust parameters to generate your desired output.
+
 ---
 
 ## **Features**
@@ -60,7 +63,6 @@ The Gradio interface allows you to:
 - Select the desired **ControlNet Type**.
 - View the generated output.
 
-
 ---
 
 ## **Customization**
@@ -74,4 +76,3 @@ You can customize the base model, prompts, and ControlNet types to suit your spe
 
 ## **License**
 This project uses open-source models from Hugging Face and ControlNet. Ensure compliance with the respective licenses when using the models.
-
