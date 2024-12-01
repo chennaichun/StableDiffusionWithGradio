@@ -1,0 +1,11 @@
+controlnet-aux
+diffusers
+numpy
+opencv-python
+torch
+torchvision
+transformers
+accelerate
+git+https://github.com/huggingface/diffusers.git@main
+controlnet_hinter==0.0.5
+gradio
